@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import modelo.Persona;
 
-/**
- *
- * @author Wilson
- */
+//Graciela Hernández
 public class Mostrar extends HttpServlet {
 
 

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
         
 public class Persona {
-    
+    //Graciela Hernández
     String dui;
     String apellidos;
     String nombres;
@@ -69,7 +69,7 @@ public class Persona {
         }
         return person;
     }
-    
+    //Wilson Moreno
     public boolean EliminarRegistro (){
         try {
             String miQuery = "delete from tb_persona where dui_persona = ('"+dui+"');";

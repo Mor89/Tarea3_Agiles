@@ -9,10 +9,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import modelo.Persona;
 
-/**
- *
- * @author Wilson
- */
+
+//  Wilson Moreno
+ 
 public class Eliminar extends HttpServlet {
 
   
