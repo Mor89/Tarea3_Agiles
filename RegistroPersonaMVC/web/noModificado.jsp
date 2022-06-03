@@ -1,8 +1,4 @@
-<%-- 
-    Document   : no_Modificado
-    Created on : 02-jun-2022, 3:03:35
-    Author     : Wilson
---%>
+<!Wilson Moreno>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

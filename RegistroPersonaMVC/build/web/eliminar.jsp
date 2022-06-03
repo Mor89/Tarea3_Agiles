@@ -1,8 +1,4 @@
-<%-- 
-    Document   : eliminar
-    Created on : 02-jun-2022, 23:35:26
-    Author     : Wilson
---%>
+<!Wilson Moreno>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

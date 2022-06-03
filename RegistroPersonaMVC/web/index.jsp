@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 01-jun-2022, 23:22:53
-    Author     : Wilson
---%>
+<!Wilson Moreno>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -32,6 +28,7 @@
 
     </body>
     <body>
+        <!Graciela hernández>
         <div class="mt-4 p-5 bg-info text-white rounded">
             <h1 style="text-align: center">Registro de Personas</h1>
             <form action="recibir.do" method="post" style="text-align: center"> 

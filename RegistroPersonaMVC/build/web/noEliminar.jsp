@@ -1,8 +1,4 @@
-<%-- 
-    Document   : noEliminar
-    Created on : 02-jun-2022, 16:23:50
-    Author     : Wilson
---%>
+<!Wilson Moreno>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

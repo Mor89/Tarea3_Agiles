@@ -1,9 +1,5 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%-- 
-    Document   : mostrartodo
-    Created on : 02-jun-2022, 0:30:02
-    Author     : Wilson
---%>
+<!Graciela Hernández>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

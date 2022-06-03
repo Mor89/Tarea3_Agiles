@@ -1,9 +1,4 @@
-<%-- 
-    Document   : exito
-    Created on : 01-jun-2022, 23:28:49
-    Author     : Wilson
---%>
-
+<!Graciela Hernández>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
